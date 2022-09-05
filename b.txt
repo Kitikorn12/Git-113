@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 one two 
-=======
 one 
->>>>>>> feature2
